@@ -1,0 +1,28 @@
+{
+  "name": "material-components-web",
+  "filename": "material-components-web.min.js",
+  "version": "0.38.0e",
+  "description": "Material Components for the Web",
+  "keywords": [
+    "material design",
+    "responsive",
+    "framework",
+    "front-end",
+    "mobile-first",
+    "web"
+  ],
+  "author": {
+    "name": "google",
+  },
+  "license": "Apache-2.0",
+  "homepage": "http://mdui.org",
+  "npmName": "mdui",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*.!(txt|ijmap)"
+      ]
+    }
+  ]
+}
